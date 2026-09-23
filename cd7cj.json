@@ -1,0 +1,24 @@
+﻿{
+  "urls": [
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/maccms2023/app/main/tv.txt",
+      "name": "ix99vip"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "name": "影视线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/ansun1714/tvbox/main/my-private-api.json",
+      "name": "福利线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/willgood2024/tvbox-auto/main/tvbox_clean.json",
+      "name": "福利1线路"
+    },
+    {
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/520ad/tvbox/main/hs.json",
+      "name": "福利2线路"
+    }
+  ]
+}
